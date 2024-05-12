@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Check Out This Website!",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "web-icon-logo-A6B586D114-seeklogo.com.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
